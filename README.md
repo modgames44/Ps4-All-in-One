@@ -11,7 +11,6 @@ Programa para reparacion de ps4 a nivel nor y syscon
 ![Captura de pantalla 2025-03-20 090938](https://github.com/user-attachments/assets/a96c73bc-f07c-4317-b186-a200248d0afa)
 ![Captura de pantalla 2025-03-20 090956](https://github.com/user-attachments/assets/b29660c9-0ed4-4385-a254-32dd7ba8ac11)
 ![Captura de pantalla 2025-03-20 091024](https://github.com/user-attachments/assets/5636699a-526b-4b04-9d26-e00b563d5dc5)
-![Captura de pantalla 2025-03-20 091034](https://github.com/user-attachments/assets/fb99e628-23f6-4265-a815-faa7cfd1801b)
 ![Captura de pantalla 2025-03-20 091042](https://github.com/user-attachments/assets/0fb29ad2-0f22-46fb-b4a7-78829f6cb807)
 ![Captura de pantalla 2025-03-20 091053](https://github.com/user-attachments/assets/0410ec78-ffba-498d-8016-c64f468a96e1)
 ![Captura de pantalla 2025-03-20 091103](https://github.com/user-attachments/assets/9fc5aadb-de3a-43b1-9560-d89dc997d0d3)
